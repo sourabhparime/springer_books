@@ -5,6 +5,7 @@ A list of all open sources textbooks published by Springer
     * BeautifulSoup4
     * requests
     * progressbar and pandas
+    * xlrd
 * Clone repo and run get_springer_books.py
 
 Note: Download script is not parallelized, takes upto 30 minutes to download the entire collection
